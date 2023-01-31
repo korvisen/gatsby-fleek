@@ -6,3 +6,5 @@ patch:
   SNYK-JS-LODASH-567746:
     - gatsby > devcert > lodash:
         patched: '2022-12-01T22:39:29.507Z'
+    - gatsby > @graphql-codegen/typescript-operations > @graphql-codegen/typescript > @graphql-codegen/visitor-plugin-common > @graphql-tools/relay-operation-optimizer > @ardatan/relay-compiler > @babel/types > lodash:
+        patched: '2023-01-31T00:03:46.681Z'

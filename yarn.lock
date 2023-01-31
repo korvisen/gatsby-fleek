@@ -2216,10 +2216,10 @@
     escape-string-regexp "^2.0.0"
     lodash.deburr "^4.1.0"
 
-"@snyk/protect@^1.1065.0":
-  version "1.1065.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1065.0.tgz#7462357778a84b9184e3db08623f2ed07af20c79"
-  integrity sha512-BKLYk51FrLhX22NbJKV9vzfmw+64jBqD0mj2hRLbOdcepWehsOjUzxgvLPt4zBYq4hu6XiTonCYV7yhCVJ0DTA==
+"@snyk/protect@^1.1092.0":
+  version "1.1092.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1092.0.tgz#203aed9aaac33959ad91af3c0d73144e0ccc82bc"
+  integrity sha512-KXNz7a2ksGpS57ILtfEmX0paOs9uFxEaaSuSMY11pwkb22czkdJprmPDmK7r24E3KArVKdwNpJkNmvV1gb9KyQ==
 
 "@swc/helpers@^0.4.2":
   version "0.4.12"
